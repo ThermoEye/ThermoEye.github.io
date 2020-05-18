@@ -93,18 +93,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Thermoeye"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Thermoeye"
+  location         : "South Korea"
+  email            : help@thermoeye.co.kr
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:help@thermoeye.co.kr
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "http://www.thermoeye.co.kr/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -121,6 +121,12 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:help@thermoeye.co.kr
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://www.thermoeye.co.kr/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
