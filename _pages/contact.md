@@ -4,4 +4,4 @@ layout: archive
 permalink: /contact/
 ---
 
-help@thermoeye.co.kr
+<a href="mailto:help@thermoeye.co.kr" class="btn btn--primary">help@thermoeye.co.kr</a>
