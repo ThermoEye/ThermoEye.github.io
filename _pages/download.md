@@ -9,4 +9,4 @@ permalink: /download/
 ThermoQuarantine 2.1.0    <a href="https://docs.google.com/uc?export=download&id=1M86qxJPFL2PlJ8QW53Cnxh4HBAQpUZau" class="btn btn--primary">Download</a>  
 
 **Document**  
-Sample DOC <a href="https://docs.google.com/uc?export=download&id=1Uot2NPjiY_46e4vr_rKyeIpO19i9kUcn" class="btn btn--primary">Download</a>
+User Manual <a href="https://docs.google.com/uc?export=download&id=19vuuUHIYM0-sjybeaGxIsERuLFu6H2_v" class="btn btn--primary">Download</a>
