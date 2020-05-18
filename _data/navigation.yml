@@ -2,10 +2,10 @@
 main:
    - title: "Download"
      url: /download/
-   - title: "About"
-     url: http://www.thermoeye.co.kr/
+#   - title: "About"
+#     url: http://www.thermoeye.co.kr/
 #   - title: "Vision"
 #     url: /vision/
 
-   - title: "Contact"
-     url: /contact/
+#   - title: "Contact"
+#     url: /contact/
