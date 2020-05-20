@@ -11,9 +11,14 @@ ThermoQuarantine 2.1.0    <a href="https://docs.google.com/uc?export=download&id
 **Document**  
 User Manual <a href="https://docs.google.com/uc?export=download&id=19vuuUHIYM0-sjybeaGxIsERuLFu6H2_v" class="btn btn--primary">Download</a> -->
 
-## File List
+**THERMOEYE** develops not only the visual & thermal fusion image but also the thermal AI and data analyzing tools so that we can provide optimized solution to satisfy our customer’s various purposes and needs.
 
-| Upload Date | Type | Name | Version | Download |
-|:--------|:-------:|:-------:|:-------:|--------:|
-| 18/05/20 | Setup File | ThermoQuarantine | 2.1.0   | <a href="https://docs.google.com/uc?export=download&id=1M86qxJPFL2PlJ8QW53Cnxh4HBAQpUZau" class="btn btn--primary">Download</a>     |
-| 18/05/20 | Document | ThermoQuarantine User Manual | 2.1.0   | <a href="https://docs.google.com/uc?export=download&id=1M86qxJPFL2PlJ8QW53Cnxh4HBAQpUZau" class="btn btn--primary">Download</a>     |
+---
+
+**ThermoQuarantine** - Fever Screening System
+
+| Release Date | Version | Program | Installation Guide | User Manual |
+|:---------:|:---------:|:---------:|:---------:|:---------:|
+| 18/05/20 | 2.1.0 | <a href="https://docs.google.com/uc?export=download&id=1M86qxJPFL2PlJ8QW53Cnxh4HBAQpUZau" class="btn btn--primary">Download</a> |<a href="https://docs.google.com/uc?export=download&id=1M86qxJPFL2PlJ8QW53Cnxh4HBAQpUZau" class="btn btn--primary">Download</a>  | <a href="https://docs.google.com/uc?export=download&id=1M86qxJPFL2PlJ8QW53Cnxh4HBAQpUZau" class="btn btn--primary">Download</a>  |
+
+---
