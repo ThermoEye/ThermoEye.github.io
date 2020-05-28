@@ -20,6 +20,6 @@ User Manual <a href="https://docs.google.com/uc?export=download&id=19vuuUHIYM0-s
 | Release Date | Version | Program | Installation Guide | User Manual |
 |:---------:|:---------:|:---------:|:---------:|:---------:|
 | 28/05/20 | 2.1.2 | <a href="https://docs.google.com/uc?export=download&id=1Bdcx7_bKJs8hx4eh51aEUuZZauU-alWP" class="btn btn--primary">Download</a> | | <a href="https://docs.google.com/uc?export=download&id=1KXr7QNrAkM0kV5qD4vBpSBqcUFs-kZpy" class="btn btn--primary">Download</a> |
-| 18/05/20 | 2.1.0 | <a href="https://docs.google.com/uc?export=download&id=1M86qxJPFL2PlJ8QW53Cnxh4HBAQpUZau" class="btn btn--primary">Download</a> |<a href="https://docs.google.com/uc?export=download&id=1M86qxJPFL2PlJ8QW53Cnxh4HBAQpUZau" class="btn btn--primary">Download</a>  | <a href="https://docs.google.com/uc?export=download&id=1M86qxJPFL2PlJ8QW53Cnxh4HBAQpUZau" class="btn btn--primary">Download</a>  |
+| 18/05/20 | 2.1.0 | <a href="https://docs.google.com/uc?export=download&id=1M86qxJPFL2PlJ8QW53Cnxh4HBAQpUZau" class="btn btn--primary">Download</a> |  | <a href="https://docs.google.com/uc?export=download&id=1M86qxJPFL2PlJ8QW53Cnxh4HBAQpUZau" class="btn btn--primary">Download</a>  |
 
 ---
