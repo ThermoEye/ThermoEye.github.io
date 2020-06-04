@@ -19,6 +19,7 @@ User Manual <a href="https://docs.google.com/uc?export=download&id=19vuuUHIYM0-s
 
 | Release Date | Version | Program | Installation Guide | User Manual |
 |:---------:|:---------:|:---------:|:---------:|:---------:|
+| 28/06/04 | 2.1.3 | <a href="https://docs.google.com/uc?export=download&id=1mxCbizQ-pfslYagtBI_7qYO_n-amVQsk" class="btn btn--primary">Download</a> | | |
 | 28/05/20 | 2.1.2 | <a href="https://docs.google.com/uc?export=download&id=1Bdcx7_bKJs8hx4eh51aEUuZZauU-alWP" class="btn btn--primary">Download</a> | | <a href="https://docs.google.com/uc?export=download&id=1sbdMsvB21nthq-iyi48G6fk48s6TPtEm" class="btn btn--primary">Download</a> |
 | 18/05/20 | 2.1.0 | <a href="https://docs.google.com/uc?export=download&id=1M86qxJPFL2PlJ8QW53Cnxh4HBAQpUZau" class="btn btn--primary">Download</a> |  | <a href="https://docs.google.com/uc?export=download&id=1M86qxJPFL2PlJ8QW53Cnxh4HBAQpUZau" class="btn btn--primary">Download</a>  |
 
