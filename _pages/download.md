@@ -19,7 +19,7 @@ User Manual <a href="https://docs.google.com/uc?export=download&id=19vuuUHIYM0-s
 
 | Release Date | Version | Program | User Manual |
 |:---------:|:---------:|:---------:|:---------:|
-| 03/08/20 | 2.4.2 | <a href="https://docs.google.com/uc?export=download&id=1v-xfPpW-W9cOVYMyj0d9PR0rnZH8WclT" class="btn btn--primary">Download</a> |  |
+| 03/08/20 | 2.4.3 | <a href="https://docs.google.com/uc?export=download&id=1v-xfPpW-W9cOVYMyj0d9PR0rnZH8WclT" class="btn btn--primary">Download</a> |  |
 | 03/08/20 | 2.4.2 | <a href="https://docs.google.com/uc?export=download&id=1KG0odOlWiBOcOJ3utVRsqk-wwHP6JauY" class="btn btn--primary">Download</a> | <a href="https://docs.google.com/uc?export=download&id=1EK7yxFblUUVWGxjvqxirdhaLLc51P3yE" class="btn btn--primary">Download</a> |
 | 07/07/20 | 2.3.0 | <a href="https://docs.google.com/uc?export=download&id=1Dj2M92AnunLv9m28-mSB3ogmTpgjTlDC" class="btn btn--primary">Download</a> | <a href="https://docs.google.com/uc?export=download&id=1uk9fDWnQ9EgRp40JBxRrMgcRdpCUlzf0" class="btn btn--primary">Download</a> |
 | 03/07/20 | 2.2.1 | <a href="https://docs.google.com/uc?export=download&id=1MvOugKYWZHy-cP-1utPxnR3rnZFjHqPc" class="btn btn--primary">Download</a> | <a href="https://docs.google.com/uc?export=download&id=1uk9fDWnQ9EgRp40JBxRrMgcRdpCUlzf0" class="btn btn--primary">Download</a> |
