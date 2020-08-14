@@ -19,6 +19,7 @@ User Manual <a href="https://docs.google.com/uc?export=download&id=19vuuUHIYM0-s
 
 | Release Date | Version | Program | User Manual |
 |:---------:|:---------:|:---------:|:---------:|
+| 14/08/20 | 2.6.0 | <a href="https://docs.google.com/uc?export=download&id=1rMy4JghwICPUWrqd5W7nK924t3pQk71c" class="btn btn--primary">Download</a> |  |
 | 11/08/20 | 2.5.5 | <a href="https://docs.google.com/uc?export=download&id=1E9-YAsjYhNBBxYA_dq0GR_tblukh_5W2" class="btn btn--primary">Download</a> |  |
 | 03/08/20 | 2.4.2 | <a href="https://docs.google.com/uc?export=download&id=1KG0odOlWiBOcOJ3utVRsqk-wwHP6JauY" class="btn btn--primary">Download</a> | <a href="https://docs.google.com/uc?export=download&id=1EK7yxFblUUVWGxjvqxirdhaLLc51P3yE" class="btn btn--primary">Download</a> |
 | 07/07/20 | 2.3.0 | <a href="https://docs.google.com/uc?export=download&id=1Dj2M92AnunLv9m28-mSB3ogmTpgjTlDC" class="btn btn--primary">Download</a> | <a href="https://docs.google.com/uc?export=download&id=1uk9fDWnQ9EgRp40JBxRrMgcRdpCUlzf0" class="btn btn--primary">Download</a> |
