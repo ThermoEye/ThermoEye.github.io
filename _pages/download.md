@@ -21,13 +21,5 @@ User Manual <a href="https://docs.google.com/uc?export=download&id=19vuuUHIYM0-s
 |:---------:|:---------:|:---------:|:---------:|
 | 27/08/20 | 2.6.2 | <a href="https://docs.google.com/uc?export=download&id=1af3Ozhm27UWycQdBtPChLchJ7J3hXeXr" class="btn btn--primary">Download</a> |  |
 | 14/08/20 | 2.6.0 | <a href="https://docs.google.com/uc?export=download&id=1rMy4JghwICPUWrqd5W7nK924t3pQk71c" class="btn btn--primary">Download</a> |  |
-| 11/08/20 | 2.5.5 | <a href="https://docs.google.com/uc?export=download&id=1E9-YAsjYhNBBxYA_dq0GR_tblukh_5W2" class="btn btn--primary">Download</a> |  |
-| 03/08/20 | 2.4.2 | <a href="https://docs.google.com/uc?export=download&id=1KG0odOlWiBOcOJ3utVRsqk-wwHP6JauY" class="btn btn--primary">Download</a> | <a href="https://docs.google.com/uc?export=download&id=1EK7yxFblUUVWGxjvqxirdhaLLc51P3yE" class="btn btn--primary">Download</a> |
-| 07/07/20 | 2.3.0 | <a href="https://docs.google.com/uc?export=download&id=1Dj2M92AnunLv9m28-mSB3ogmTpgjTlDC" class="btn btn--primary">Download</a> | <a href="https://docs.google.com/uc?export=download&id=1uk9fDWnQ9EgRp40JBxRrMgcRdpCUlzf0" class="btn btn--primary">Download</a> |
-| 03/07/20 | 2.2.1 | <a href="https://docs.google.com/uc?export=download&id=1MvOugKYWZHy-cP-1utPxnR3rnZFjHqPc" class="btn btn--primary">Download</a> | <a href="https://docs.google.com/uc?export=download&id=1uk9fDWnQ9EgRp40JBxRrMgcRdpCUlzf0" class="btn btn--primary">Download</a> |
-| 25/06/20 | 2.2.0 | <a href="https://docs.google.com/uc?export=download&id=1cwPfPzumMxdEOPFG6CFGCmQVahlJOc5E" class="btn btn--primary">Download</a> | <a href="https://docs.google.com/uc?export=download&id=1uk9fDWnQ9EgRp40JBxRrMgcRdpCUlzf0" class="btn btn--primary">Download</a> |
-| 04/06/20 | 2.1.3 | <a href="https://docs.google.com/uc?export=download&id=1mxCbizQ-pfslYagtBI_7qYO_n-amVQsk" class="btn btn--primary">Download</a> | |
-| 28/05/20 | 2.1.2 | <a href="https://docs.google.com/uc?export=download&id=1Bdcx7_bKJs8hx4eh51aEUuZZauU-alWP" class="btn btn--primary">Download</a> | <a href="https://docs.google.com/uc?export=download&id=1sbdMsvB21nthq-iyi48G6fk48s6TPtEm" class="btn btn--primary">Download</a> |
-| 18/05/20 | 2.1.0 | <a href="https://docs.google.com/uc?export=download&id=1M86qxJPFL2PlJ8QW53Cnxh4HBAQpUZau" class="btn btn--primary">Download</a> |  <a href="https://docs.google.com/uc?export=download&id=1M86qxJPFL2PlJ8QW53Cnxh4HBAQpUZau" class="btn btn--primary">Download</a>  |
 
 ---
