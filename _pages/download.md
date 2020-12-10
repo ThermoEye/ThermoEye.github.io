@@ -19,11 +19,7 @@ User Manual <a href="https://docs.google.com/uc?export=download&id=19vuuUHIYM0-s
 
 | Release Date | Version | Program | User Manual (Eng) | User Manual (Kor) |
 |:---------:|:---------:|:---------:|:---------:|:---------:|
-| 10/12/20 | 3.0.0 |
-<a href="https://drive.google.com/uc?export=download&id=1If7NGx7TKaftsruc8sK6qf6Ksk4MasQ7" class="btn btn--primary">Download</a> |  
-<a href="https://drive.google.com/uc?export=download&id=1ZylDFwVfHzNVrrWyvlZCpBXRFpY9J__v" class="btn btn--primary">Download</a> |
-<a href="https://drive.google.com/uc?export=download&id=1UTY_96h9b36NK2kFoRkqMRjaUuJR0WZz" class="btn btn--primary">Download</a> |
-
+| 10/12/20 | 3.0.0 | <a href="https://drive.google.com/uc?export=download&id=1If7NGx7TKaftsruc8sK6qf6Ksk4MasQ7" class="btn btn--primary">Download</a> | <a href="https://drive.google.com/uc?export=download&id=1ZylDFwVfHzNVrrWyvlZCpBXRFpY9J__v" class="btn btn--primary">Download</a> | <a href="https://drive.google.com/uc?export=download&id=1UTY_96h9b36NK2kFoRkqMRjaUuJR0WZz" class="btn btn--primary">Download</a> |
 | 03/09/20 | 2.6.3 | <a href="https://drive.google.com/uc?export=download&id=1Bkql55P9JBj0bx8xmj5wQAppl6_cID_r" class="btn btn--primary">Download</a> |  |  |
 | 27/08/20 | 2.6.2 | <a href="https://docs.google.com/uc?export=download&id=1af3Ozhm27UWycQdBtPChLchJ7J3hXeXr" class="btn btn--primary">Download</a> |  |  |
 | 14/08/20 | 2.6.0 | <a href="https://docs.google.com/uc?export=download&id=1rMy4JghwICPUWrqd5W7nK924t3pQk71c" class="btn btn--primary">Download</a> |  |  |
